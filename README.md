@@ -1,6 +1,6 @@
-Stat_Inference_project(the following description is from the project for Coursera course)
+Stat_Inference_project
 ======================
-
+(the following description is from the project for Coursera course)
 ### Statistical inference project 
 
 This is the project for the statistical inference class. In it, you will use simulation to explore inference and do some simple inferential data analysis. The project consists of two parts:
